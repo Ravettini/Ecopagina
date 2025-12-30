@@ -1,6 +1,6 @@
 import { PageShell } from '@/components/Layout/PageShell';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card } from '@/components/ui/card';
 
 interface TabItem {
   id: string;

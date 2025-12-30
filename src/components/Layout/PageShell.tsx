@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Header } from './Header';
 import { Button } from '@/components/ui/button';
-import { Separator } from '@/components/ui/separator';
 import { ArrowLeft } from 'lucide-react';
 
 interface PageShellProps {

@@ -3,7 +3,6 @@ import { surveyConfig } from '@/config/survey';
 import { isAuthenticated, logout } from '@/utils/auth';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { cn } from '@/lib/utils';
 
 export const Header = () => {
   const navigate = useNavigate();
