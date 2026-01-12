@@ -17,6 +17,7 @@ export const Tablero = () => {
                 className="w-full h-full border-0 rounded-lg"
                 title="Tablero Looker Studio ECO 2025"
                 allowFullScreen
+                sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
               />
             ) : (
               <div className="flex-1 flex items-center justify-center p-12">

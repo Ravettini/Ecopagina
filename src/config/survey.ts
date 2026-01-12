@@ -34,7 +34,7 @@ export const surveyConfig: SurveyConfig = {
     'Promover entornos laborales que impulsen el desarrollo de capacidades',
     'Orientar decisiones de gestión organizacional',
   ],
-  lookerUrl: '', // URL de Looker Studio embebido
+  lookerUrl: 'https://lookerstudio.google.com/embed/reporting/ecaaed0c-90e2-4b02-b181-d630309c1b39/page/p_ng86ogdbzd',
   routes: {
     introduccion: '/introduccion',
     metodologia: '/metodologia',
